@@ -1,2 +1,2 @@
 # 6.0001-labs
-My work for the labs in 6.0001.
+Please don't just copy off of this; use it as a source.
